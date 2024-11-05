@@ -1,0 +1,7 @@
+# ninja log v6
+11	689	1730700023392074734	CMakeFiles/cppLearning.dir/01_explicit/TestExplicit.cpp.o	14a68770bf911b5
+10	685	1730700023391454912	CMakeFiles/cppLearning.dir/main.cpp.o	a91456777781abcf
+689	813	1730700024069767099	cppLearning	903fdf382abc9450
+6	431	1730703510395841132	CMakeFiles/cppLearning.dir/main.cpp.o	a91456777781abcf
+6	432	1730703510396109009	CMakeFiles/cppLearning.dir/02_unique_ptr/TestUniquePtr.cpp.o	af3384a4be8722b4
+432	547	1730703510822006053	cppLearning	59ef8e490503f02
